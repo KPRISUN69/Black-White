@@ -1,3 +1,3 @@
 # Black & White Themes
 
-My BetterDiscord Themes and Plugins
+My BetterDiscord Themes Black&White
